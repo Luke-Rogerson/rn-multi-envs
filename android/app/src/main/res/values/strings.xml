@@ -1,0 +1,4 @@
+<resources>
+    <!-- This is now set in app/build.gradle -->
+    <!-- <string name="app_name">RNBuildVariants</string> -->
+</resources>
