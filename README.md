@@ -17,4 +17,4 @@ Take a look at `ios/RNBuildVariants/RNConfig.m` and `android/app/src/main/java/c
 
 ### Closing thoughts
 
-While this solution is effective, a definite improvement would be to add a solution for not storing secrets in source control. It is also a fair amount of work to get everything setup (particularly on iOS), so you might want to consider a more streamlined, "React Native" solution such as [react-native-config](https://github.com/luggit/react-native-config) or [react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config).
+While this solution is effective, a definite improvement would be to add a way to not store secrets in source control. It is also a fair amount of work to get everything setup (particularly on iOS), so you might want to consider a more streamlined, "React Native" solution such as [react-native-config](https://github.com/luggit/react-native-config) or [react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config).
